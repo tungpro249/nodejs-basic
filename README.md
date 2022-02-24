@@ -1,1 +1,1 @@
-This Project NodeJS MongoDB, ReactJS
+This Project NodeJS MongoDB
